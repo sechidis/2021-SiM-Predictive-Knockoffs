@@ -5,7 +5,7 @@ K. Sechidis, M. Kormaksson, D. Ohlssen, Using knockoffs for controlled predictiv
 https://onlinelibrary.wiley.com/doi/10.1002/sim.9134
 
 # How to use the methods
-An .html vignette which shows how to simulate the data from the paper and how to use the methods can be previewed [here]().
+An .html vignette which shows how to simulate the data from the paper and how to use the methods can be previewed [here](https://htmlpreview.github.io/?https://github.com/sechidis/2021-SiM-Predictive-Knockoffs/blob/main/predknockoff-vignette.html).
 
 # Citation
 If you make use of the code found here, please cite the paper above.
