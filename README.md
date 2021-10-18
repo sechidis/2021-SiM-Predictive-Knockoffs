@@ -14,7 +14,7 @@ If you make use of the code found here, please cite the paper above.
 author = {Sechidis, Konstantinos and Kormaksson, Matthias and Ohlssen, David},<br />
 title = {Using knockoffs for controlled predictive biomarker identification},<br />
 journal = {Statistics in Medicine},<br />
-volume = {n/a},<br />
-number = {n/a},<br />
-pages = {}<br />
+volume = {40},<br />
+number = {25},<br />
+pages = {5453-5473}<br />
 }
